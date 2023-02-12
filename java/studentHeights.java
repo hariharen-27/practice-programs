@@ -1,5 +1,5 @@
 import java.util.*;
-public class calendar {
+public class studentHeights {
     public static void main(String[] args){
         int n,i,j,count=1;
         float avg;
